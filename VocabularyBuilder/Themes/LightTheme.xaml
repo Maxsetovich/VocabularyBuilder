@@ -3,7 +3,14 @@
    
     <SolidColorBrush x:Key="PrimaryBackground" Color="#fff"/>
     <SolidColorBrush x:Key="SecondoryBackground" Color="#e1e1e1"/>
+    <SolidColorBrush x:Key="SelectedBackground" Color="#969DAC"/>
 
     <SolidColorBrush x:Key="PrimaryBorderColor" Color="#D3D3D3"/>
+    <SolidColorBrush x:Key="SecondaryBorderColor" Color="#00AADA"/>
+
+    <SolidColorBrush x:Key="PrimaryTextColor" Color="Gray"/>
+    <SolidColorBrush x:Key="SecondaryTextColor" Color="#fff"/>
+
+
 </ResourceDictionary>
     
